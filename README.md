@@ -84,6 +84,7 @@ A modern survival guide for liberty-seekers
   + [1984](http://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
   + [Brave New World](http://en.wikipedia.org/wiki/Brave_New_World)
   +  [Fahrenheit 451](http://en.wikipedia.org/wiki/Fahrenheit_451)
+  +  [Wool] (https://en.wikipedia.org/wiki/Silo_(series)#wool)
   +  [Zero to One](http://en.wikipedia.org/wiki/Zero_to_One)
   +  [Atlas Shrugged](http://en.wikipedia.org/wiki/Atlas_Shrugged)
   +  [The Fountainhead](http://en.wikipedia.org/wiki/The_Fountainhead)
